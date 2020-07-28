@@ -1,2 +1,1 @@
-# Mask-R-CNN
-Instance segmentation using Mask R-CNN
+object detection techniques from scratch using cnn
